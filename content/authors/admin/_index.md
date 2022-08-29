@@ -14,6 +14,11 @@ social:
     link: https://github.com/ytfei0327
     icon: github
     icon_pack: fab
+  - display:
+      header: false
+    link: "/#mailto : yutong.fei@univ-lyon1.fr"
+    icon_pack: fas
+    icon: envelop
 organizations: []
 education:
   courses:

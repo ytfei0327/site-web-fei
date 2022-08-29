@@ -8,7 +8,12 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social: []
+social:
+  - display:
+      header: false
+    icon_pack: fas
+    icon: envelope
+    link: "mailto : yutong.fei@univ-lyon1.fr"
 organizations: []
 education:
   courses:

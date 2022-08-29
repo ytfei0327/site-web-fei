@@ -39,7 +39,7 @@ experience:
   - title: Data Scientist NLP
     company: Direction générale de la Gendarmerie nationale
     company_url: 'https://www.gendarmerie.interieur.gouv.fr/notre-institution/nos-composantes/au-niveau-central/direction-generale'
-    company_logo: org-gc
+    company_logo: logo-gen
     location: 4 rue Claude Bernard, 92130 Issy-les-Moulineaux, France
     date_start: '2021-04-12'
     date_end: '2021-09-30'

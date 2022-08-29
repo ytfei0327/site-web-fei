@@ -11,33 +11,30 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: "mailto : yutong.fei@univ-lyon1.fr"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/FeiYutong
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ytfei0327
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yutong-fei-469002183/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Signal and Image Processing
+      institution: Ecole Centrale de Nantes
+      year: 2021
+    - course: "BSc in Environmental Engineering "
+      institution: Harbin Institute of Technology
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true

@@ -11,9 +11,9 @@ interests:
 social:
   - display:
       header: false
+    link: https://github.com/ytfei0327
+    icon: github
     icon_pack: fas
-    icon: envelope
-    link: "mailto : yutong.fei@univ-lyon1.fr"
 organizations: []
 education:
   courses:

@@ -19,6 +19,11 @@ social:
     link: https://github.com/ytfei0327
     icon: github
     icon_pack: fab
+  - display:
+      header: false
+    icon_pack: fab
+    icon: twitter
+    link: https://twitter.com/FeiYutong
 organizations: []
 education:
   courses:

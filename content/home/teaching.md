@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: teaching
 headless: true
-weight: 10
+weight: 40
 title: Teaching
 active: true
 design:

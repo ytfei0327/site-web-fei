@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD student
+    company: Université Claude Bernard Lyon 1
+    company_url: 'https://www.univ-lyon1.fr/'
+    company_logo: org-x
+    location: 43 Bd du 11 Novembre 1918, 69100 Villeurbanne, France
+    date_start: '2022-04-04'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+    
   - title: Data Scientist NLP
     company: Direction générale de la Gendarmerie nationale
     company_url: 'https://www.gendarmerie.interieur.gouv.fr/notre-institution/nos-composantes/au-niveau-central/direction-generale'
@@ -29,20 +43,7 @@ experience:
     location: 4 rue Claude Bernard, 92130 Issy-les-Moulineaux, France
     date_start: '2021-04-12'
     date_end: '2021-09-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-   - title: PhD student
-    company: Université Claude Bernard Lyon 1
-    company_url: 'https://www.univ-lyon1.fr/'
-    company_logo: org-gc
-    location: 43 Bd du 11 Novembre 1918, 69100 Villeurbanne, France
-    date_start: '2022-04-04'
-    date_end: ''
-    description: 
+    description: Teaching
 
 design:
   columns: '2'

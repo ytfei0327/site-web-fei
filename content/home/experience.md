@@ -26,7 +26,7 @@ experience:
     company: Direction générale de la Gendarmerie nationale
     company_url: 'https://www.gendarmerie.interieur.gouv.fr/notre-institution/nos-composantes/au-niveau-central/direction-generale'
     company_logo: org-gc
-    location: 4 rue Claude Bernard, Issy-les-Moulineaux 92130, France
+    location: 4 rue Claude Bernard, 92130 Issy-les-Moulineaux, France
     date_start: '2021-04-12'
     date_end: '2021-09-30'
     description: |2-
@@ -35,7 +35,14 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-
+   - title: PhD student
+    company: Université Claude Bernard Lyon 1
+    company_url: 'https://www.univ-lyon1.fr/'
+    company_logo: org-gc
+    location: 43 Bd du 11 Novembre 1918, 69100 Villeurbanne, France
+    date_start: '2022-04-04'
+    date_end: ''
+    description: 
 
 design:
   columns: '2'

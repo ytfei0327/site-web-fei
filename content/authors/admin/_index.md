@@ -12,6 +12,9 @@ social: []
 organizations: []
 education:
   courses:
+    - course: MEng in Signal and Image Processing
+      institution: Ecole Centrale de Nantes
+      year: 2021
     - course: "BSc in Environmental Engineering "
       institution: Harbin Institute of Technology
       year: 2019

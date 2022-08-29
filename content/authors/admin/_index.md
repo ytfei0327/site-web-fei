@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: "/#mailto : yutong.fei@univ-lyon1.fr"
+    link: mailto:yutong.fei@univ-lyon1.fr
     icon_pack: fas
     icon: envelope
   - display:

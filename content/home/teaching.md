@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: pages
 widget_id: teaching
 headless: true
 weight: 80

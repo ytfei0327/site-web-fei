@@ -13,7 +13,7 @@ social:
       header: false
     link: https://github.com/ytfei0327
     icon: github
-    icon_pack: fas
+    icon_pack: fab
 organizations: []
 education:
   courses:

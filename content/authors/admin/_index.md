@@ -24,6 +24,11 @@ social:
     icon_pack: fab
     icon: twitter
     link: https://twitter.com/FeiYutong
+  - display:
+      header: false
+    icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yutong-fei-469002183/
 organizations: []
 education:
   courses:

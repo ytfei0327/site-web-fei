@@ -25,7 +25,7 @@ experience:
   - title: PhD student
     company: Université Claude Bernard Lyon 1
     company_url: 'https://www.univ-lyon1.fr/'
-    company_logo: org-x
+    company_logo: logo-uni
     location: 43 Bd du 11 Novembre 1918, 69100 Villeurbanne, France
     date_start: '2022-04-04'
     date_end: ''

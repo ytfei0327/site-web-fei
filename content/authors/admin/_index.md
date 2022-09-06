@@ -2,8 +2,7 @@
 title: Yutong FEI
 role: PhD student in Communication and Information Sciences
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Natural Language Processing.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +41,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+**Yutong FEI** is a PhD student of Information and Communication Sciences at the Laboratory ELICO (Équipe de recherche de Lyon en sciences de l'information et de la communication), Department of Computer Science, University of Claude Bernard Lyon 1. Her research interests include Information Retrieval of Scientific Papers. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

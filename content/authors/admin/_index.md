@@ -1,6 +1,6 @@
 ---
 title: Yutong FEI
-role: Professor of Artificial Intelligence
+role: PhD student in Communication and Information Sciences
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
